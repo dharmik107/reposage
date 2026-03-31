@@ -2,6 +2,8 @@
   <h1>🧠 RepoSage</h1>
   <p><strong>AI-Powered Repository Intelligence</strong></p>
   <p>Deeply understand any GitHub repository through natural language queries.</p>
+  <br />
+  <p><a href="https://youtu.be/af1oExZqtCA?si=-kIVK2Jxxb9r8TrR"><strong>🎥 Watch the Demo Video</strong></a></p>
 </div>
 
 ---
